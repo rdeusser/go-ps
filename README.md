@@ -1,5 +1,5 @@
 # Process List Library for Go
-[![Build Status](https://travis-ci.org/rdeusser/go-ps.svg?branch=master)](https://travis-ci.org/rdeusser/go-ps)))]]
+[![Build Status](https://travis-ci.org/rdeusser/go-ps.svg?branch=master)](https://travis-ci.org/rdeusser/go-ps)
 
 go-ps is a library for Go that implements OS-specific APIs to list and
 manipulate processes in a platform-safe way. The library can find and
